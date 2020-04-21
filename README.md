@@ -3,7 +3,7 @@
 Data wrangling project for Collect/Store/Retrieve Data class. 
 
 
-In this repository, I scrape open access data about National Parks in the United States, obtain general introductory information, and demonstrate data clean up and data wrangling techniques. Data includes trail information, some historica park specific information, and ample geographical data. For this project, I used R to scrape, put together, and perform minimal exploratory analysis. This project compbines web scraping, R, and SQL in R. 
+In this repository, I scrape open access data about National Parks in the United States, obtain general introductory information, and demonstrate data clean up and data wrangling techniques. Data includes trail information, some historica park specific information, and ample geographical data. For this project, I used R to scrape, put together, and perform minimal exploratory analysis. This project compbines web scraping, **R**, and **SQL in R**. 
 
 **Files:**
 
